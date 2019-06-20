@@ -4,11 +4,9 @@
 - Nateé Johnson
   - Data Merging, Data Cleaning
   - Data Analysis (Correlation Analysis, Plotting) 
-  - PPT Draft
 - Tingting Li
   - Data Cleaning
   - Data Analysis (Plotting) 
-  - Main Jupyter Notebook Draft
 ## File Summary 
 - Main Project Jupyter Notebook
   - Project1_Movie_Industry_Analysis.ipynb
