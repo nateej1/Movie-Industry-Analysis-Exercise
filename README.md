@@ -2,9 +2,9 @@
 
 ## Introduction 
 
-Imagine Microsoft is interested in going into the industry of movie or online streaming or both, and creating original content. Without any previous exprience in making movies or video content, what can we do to prepare and arm Microsoft with good strategies, so that it can gradually chaim their shares from the movie market and make profits? 
+Imagine Microsoft is interested in going into the industry of movie or online streaming or both, and creating original content. Without any previous exprience in making movies or video content, what can we do to prepare and arm Microsoft with good strategies, so that it can gradually claim their shares from the movie market and make profits? 
 
-One good approach is studying and gaining insights from historical movie data available from various datasources, including but not limited to, 'Box Office Mojo', 'IMDB', 'Rotten Tomatoes', and 'TheMovieDB.org'. This is also the approach laid out in this notebook.  
+One good approach is studying and gaining insights from historical movie data available from various datasources, including but not limited to, 'Box Office Mojo', 'IMDB', 'Rotten Tomatoes', and 'TheMovieDB.org'. This is the approach laid out in this notebook.  
 
 ## Historical Data Used
 
