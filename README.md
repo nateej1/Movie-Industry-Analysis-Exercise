@@ -70,11 +70,11 @@ Multiple datasets can be found in [Mod-1-Project-Instructions](https://github.co
 ## File Summary 
 - Main Project Jupyter Notebook
   - Project1_Movie_Industry_Analysis.ipynb
-- Data Merging & Exporting
+- Data Merging & Exporting in `data_cleaning` folder
   - Project1_Part1_Data-Merge-Clean-Export-a.ipynb
   - Project1_Part1_Data-Merge-Clean-Export-b.ipynb
 - New Dataset
   - tmdb_box_merge_new.csv (most recent version)
-  - tmdb_box_merge.csv (older version)
+  - tmdb_box_merge.csv (older version in data_cleaning folder)
 - Function file
   - movie_functions.py
