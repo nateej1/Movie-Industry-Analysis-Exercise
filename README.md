@@ -1,5 +1,7 @@
 # Project 1 - Movie Industry
 
+![repo-image](repo-image.jpg)
+
 ## Introduction 
 
 Imagine Microsoft is interested in going into the industry of movie or online streaming or both, and creating original content. Without any previous exprience in making movies or video content, what can we do to prepare and arm Microsoft with good strategies, so that it can gradually claim their shares from the movie market and make profits? 
